@@ -1,0 +1,11 @@
+camera0: /home/ramesh/Vicky/stereo_vision/new_camera_data/stereo_camera_test_230208/80cm/left.avi
+camera1: /home/ramesh/Vicky/stereo_vision/new_camera_data/stereo_camera_test_230208/80cm/right.avi
+frame_width: 1280
+frame_height: 720
+mono_calibration_frames: 10
+stereo_calibration_frames: 10
+view_resize: 1
+checkerboard_box_size_scale : 5
+checkerboard_rows: 4
+checkerboard_columns: 7
+cooldown: 1
